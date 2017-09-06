@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Game2048</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="rule">Join the numbers and get to the 2048 title.</string>
+</resources>
